@@ -1,0 +1,32 @@
+===========================================================================
+SmartDNS README
+===========================================================================
+
+Introduction:
+SmartDNS is a DNS proxy which could switch querying between several DNS servers according their IP address.
+
+Usage:
+1. Download SmartDNS
+2. Edit dns.txt & host.txt
+3. Launch smartdns.py
+4. Modifiy your dns server to 127.0.0.1
+
+Contact:
+Any comment or bug report please send to shuncox(at)gmail.com
+
+
+===========================================================================
+SmartDNS 说明书
+===========================================================================
+
+简介：
+SmartDNS 是个可以根据需要访问的 IP 范围自动切换 DNS 服务器的代理服务程序。
+
+使用：
+1、下载 SmartDNS
+2、编辑 dns.txt 和 host.txt
+3、运行 smartdns.py
+4、将你的 DNS 设置修改为 127.0.0.1
+
+联系：
+有任何意见或错误报告请发送到 shuncox(at)gmail.com
