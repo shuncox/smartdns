@@ -1,0 +1,3 @@
+# host list
+.blogspot.com	72.14.219.190
+.wikipedia.org	145.97.39.133

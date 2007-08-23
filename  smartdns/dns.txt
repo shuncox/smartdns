@@ -1,0 +1,3 @@
+# dns list
+.zju.edu.cn	10.10.0.21
+default		208.67.222.220
